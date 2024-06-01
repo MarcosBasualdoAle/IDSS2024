@@ -3,3 +3,4 @@ Este es un proyecto para practicar Git y GitHub
 
 ## Colaboradores
 - Vera Rodriguez Cristian Leonardo
+- Castilla Huanca Marco Renato
