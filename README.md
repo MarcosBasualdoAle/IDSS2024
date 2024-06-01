@@ -6,3 +6,4 @@ Este es un proyecto para practicar Git y GitHub
 - Castilla Huanca Marco Renato
 - Basualdo Ale Marcos Luis
 - Aldana Chavez David Joel
+- Taco Zavala Miguel Angel
